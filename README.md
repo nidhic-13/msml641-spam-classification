@@ -6,6 +6,9 @@ preprocessing, feature extraction, model training, and evaluation.
 
 ---
 # Running the notebooks
+All notebooks used for training and evaluation can be found in the following locations:
+- models/FinalProject_BaselineModel_StaticEmbedding.ipynb
+- models/FinalProject_BERT_ModelTrain.ipynb
 
 ## Environment Setup
 
