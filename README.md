@@ -39,7 +39,7 @@ The project is implemented in **Python 3.12** and relies on the following librar
 | seaborn         | &ge; 0.13.2  |
 
 ---
-
+# Running the streamlit application
 ## Installation
 
 Install all required dependencies using:
