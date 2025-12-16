@@ -43,13 +43,12 @@ The project is implemented in **Python 3.12** and relies on the following librar
 
 ---
 # Running the streamlit application
-## Installation
 
 Install all required dependencies using:
 
 ```bash
 pip install pandas numpy tensorflow tensorflow-hub tensorflow-text keras-nlp scikit-learn matplotlib seaborn
-
+```
 ## Running the streamlit application
 - Navigate to the streamlit directory
 - Install the required dependencies from the requirements.txt located inside
